@@ -5,5 +5,6 @@ public class C {
 		System.out.println("This is C class");
 		
 		System.out.println("master's change in C Class");
+		System.out.println("Alice's change in C Class");
 	}
 }
